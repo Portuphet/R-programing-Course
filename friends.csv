@@ -1,0 +1,8 @@
+"FRIENDS","AGES","movie_lover","gender","AGEGROUP"
+"Joe",34,TRUE,"M","Young"
+"David",28,TRUE,"M","Young"
+"Mary",30,FALSE,"F","Young"
+"John",29,FALSE,"M","Young"
+"Jack",35,TRUE,"M","Young"
+"Kevin",45,TRUE,"M","Old"
+"Liam",18,FALSE,"M","Young"

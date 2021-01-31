@@ -1,0 +1,7 @@
+{
+    "ID":["9","10"],
+    "Name":["David", "Johnny"],
+    "Salary":["1000", "2500"],
+    "StartDate":["1/1/2021", "2/1/2021"],
+    "Dept":["Data Science", "Engineer"]
+}
